@@ -1,4 +1,3 @@
-# Instant-Runoff-Voting-C
 # Instant Runoff Voting (IRV) System – C Implementation
 
 ## Overview
