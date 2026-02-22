@@ -38,3 +38,26 @@ Where:
 - m = number of candidates
 
 ## Project Structure
+
+src/
+main.c 
+
+## How to Compile
+
+gcc -Wall -Werror -std=c11 src/main.c -o irv
+./irv
+
+
+## What I Learned
+
+- Preferential vote redistribution mechanics
+- Careful in-place data mutation handling
+- Managing elimination states using sentinel values
+- Implementing multi-stage procedural systems
+
+## Author
+
+Ruiyun Hu
+University of Melbourne
+
+
